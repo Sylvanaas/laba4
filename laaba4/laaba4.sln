@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laaba4", "laaba4\laaba4.csproj", "{53ADB87D-F462-4E81-8297-208B518AAAC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53ADB87D-F462-4E81-8297-208B518AAAC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53ADB87D-F462-4E81-8297-208B518AAAC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53ADB87D-F462-4E81-8297-208B518AAAC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53ADB87D-F462-4E81-8297-208B518AAAC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22CC7146-07ED-46BB-9CB0-73815170501D}
+	EndGlobalSection
+EndGlobal
